@@ -1,4 +1,5 @@
-[![Gmail Badge](https://img.shields.io/badge/-nicomoccagatta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicomoccagatta@gmail.com)](mailto:nicomoccagatta@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-gree?style=flat&logo=InternetComputer&logoColor=white&link=https://nicomoccagatta.com/)](https://nicomoccagatta.com/)
+[![Gmail Badge](https://img.shields.io/badge/-nicomoccagatta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nicomoccagatta@gmail.com)](mailto:nicomoccagatta@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicomoccagatta/)
 [![GitHub followers](https://img.shields.io/github/followers/nicomoccagatta?label=Follow&style=social)](https://github.com/nicomoccagatta/?tab=follow)
 
